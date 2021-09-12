@@ -1,0 +1,13 @@
+:root {
+  background-color: #2e3440;
+  color: #eceff4;
+}
+
+#cards {
+  background-color: #3b4252;
+}
+
+#skills-category,
+#separating-line {
+  color: #d8dee9;
+}
